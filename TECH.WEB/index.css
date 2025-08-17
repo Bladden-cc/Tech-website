@@ -1,0 +1,55 @@
+.tech{
+    color: rgb(0, 102, 255);
+    text-align: center;
+    font: size 36px;
+    margin-bottom: 10px;
+}
+
+.innovation{
+    color: rgb(103, 96, 96);
+    font-style: italic;
+    font-size: 18px;
+    text-align: center;
+}
+
+.qualifications{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.qualifications h3{
+    color: rgb(0, 128, 255);
+}
+
+.qualifications ul{
+    list-style-type: none;
+}
+
+.qualifications li{
+    background-color: rgb(95, 171, 153);
+    margin: 10px 0;
+    padding: 10px;
+    border-left: 4px solid rgb(98, 0, 255);
+}
+
+.meet{
+    text-align: center;
+    color: gray;
+
+}
+
+.contestants{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contestant{
+    text-align: center;
+}
+
+.contestant img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
